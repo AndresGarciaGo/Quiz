@@ -1,0 +1,92 @@
+[
+  {
+      "categoria": "Etica Griega",
+      "pregunta": "¿Cual fue el primer filosofo en desarrolar una de las primeras reflexiones morales?",
+      "respuesta": "Pitagoras",
+      "incorrecta1": "Aristoteles",
+      "incorrecta2": "Sócrates",
+      "incorrecta3": "Euclides\r",
+      "imagen": "https://blogs.elespectador.com/wp-content/uploads/2011/05/ajedrez-el-pensador-de-rodin-5.jpg",
+      "objectFit": "cover"
+  },
+    {
+        "categoria": "Etica Griega",
+        "pregunta": "Socrates fue el primer filosofo en \"buscar la verdad a traves del dialogo y la relefexión\"",
+        "respuesta": "Verdadero",
+        "incorrecta1": "Falso",
+        "incorrecta2": "Fue Aristoteles",
+        "incorrecta3": "Fue Platón",
+        "imagen": "",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Etica Griega",
+        "pregunta": "¿Quién es el filosofo de la imagen?",
+        "respuesta": "Aristoteles",
+        "incorrecta1": "Platon",
+        "incorrecta2": "Picasso",
+        "incorrecta3": "Ninguno de los anteriores",
+        "imagen": "https://www.alejandradeargos.com/images/filosofos/Aristoteles.jpg",
+        "objectFit": "cover"
+    },
+    {
+        "categoria": "Etica Griega",
+        "pregunta": "Socrates consideraba que nuestro conocimiento, felicidad y bondad deben estar siempre enlazados.",
+        "respuesta": "Verdadero",
+        "incorrecta1": "Falso",
+        "incorrecta2": "Socrates no era filosofo",
+        "incorrecta3": "Nadie dijo eso\r",
+        "imagen": "https://cdn.zendalibros.com/wp-content/uploads/socrates.jpg",
+        "objectFit": "cover"
+    }
+    {
+        "categoria": "Etica Griega",
+        "pregunta": "Socrates consideraba que nuestro conocimiento, felicidad y bondad deben estar siempre enlazados.",
+        "respuesta": "Verdadero",
+        "incorrecta1": "Falso",
+        "incorrecta2": "Socrates no era filosofo",
+        "incorrecta3": "Nadie dijo eso\r",
+        "imagen": "https://cdn.zendalibros.com/wp-content/uploads/socrates.jpg",
+        "objectFit": "cover"
+    }
+    {
+        "categoria": "Etica Griega",
+        "pregunta": "Socrates consideraba que nuestro conocimiento, felicidad y bondad deben estar siempre enlazados.",
+        "respuesta": "Verdadero",
+        "incorrecta1": "Falso",
+        "incorrecta2": "Socrates no era filosofo",
+        "incorrecta3": "Nadie dijo eso\r",
+        "imagen": "https://cdn.zendalibros.com/wp-content/uploads/socrates.jpg",
+        "objectFit": "cover"
+    }
+    {
+        "categoria": "Etica Griega",
+        "pregunta": "Socrates consideraba que nuestro conocimiento, felicidad y bondad deben estar siempre enlazados.",
+        "respuesta": "Verdadero",
+        "incorrecta1": "Falso",
+        "incorrecta2": "Socrates no era filosofo",
+        "incorrecta3": "Nadie dijo eso\r",
+        "imagen": "https://cdn.zendalibros.com/wp-content/uploads/socrates.jpg",
+        "objectFit": "cover"
+    }
+    {
+        "categoria": "Etica Griega",
+        "pregunta": "Socrates consideraba que nuestro conocimiento, felicidad y bondad deben estar siempre enlazados.",
+        "respuesta": "Verdadero",
+        "incorrecta1": "Falso",
+        "incorrecta2": "Socrates no era filosofo",
+        "incorrecta3": "Nadie dijo eso\r",
+        "imagen": "https://cdn.zendalibros.com/wp-content/uploads/socrates.jpg",
+        "objectFit": "cover"
+    }
+    {
+        "categoria": "Etica Griega",
+        "pregunta": "Socrates consideraba que nuestro conocimiento, felicidad y bondad deben estar siempre enlazados.",
+        "respuesta": "Verdadero",
+        "incorrecta1": "Falso",
+        "incorrecta2": "Socrates no era filosofo",
+        "incorrecta3": "Nadie dijo eso\r",
+        "imagen": "https://cdn.zendalibros.com/wp-content/uploads/socrates.jpg",
+        "objectFit": "cover"
+    }
+  ]
